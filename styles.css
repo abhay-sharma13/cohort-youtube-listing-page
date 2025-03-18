@@ -1,0 +1,11 @@
+/* .container {
+  padding: 2rem;
+} */
+
+.videoTitle {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%; /* Adjust as needed */
+  display: block; /* or inline-block */
+}
